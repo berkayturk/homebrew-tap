@@ -1,8 +1,8 @@
 class AppstorePrecheck < Formula
   desc "Read-only iOS App Store pre-submission scan with a GREEN/YELLOW/RED verdict"
   homepage "https://github.com/berkayturk/appstore-precheck"
-  url "https://registry.npmjs.org/appstore-precheck/-/appstore-precheck-1.13.1.tgz"
-  sha256 "bc2be1a8407861f260b0b73447fa340bffa0c6975be3e2ff42a549358c946e1f"
+  url "https://registry.npmjs.org/appstore-precheck/-/appstore-precheck-1.14.0.tgz"
+  sha256 "93ca8f97c96ae2d68968b6d1dfb941f076192d52740f4176a47d80aa672ceed4"
   license "MIT"
 
   depends_on "node"
